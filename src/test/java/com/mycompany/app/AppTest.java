@@ -7,15 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * Unit test for simple App.
  */
-/**
- * Unit test for simple App2.
- */
-/**
- * Unit test for simple App3.
- */
-/**
- * Unit test for simple App4.
- */
+
 public class AppTest
 {
     @Test
