@@ -3,6 +3,9 @@ package com.mycompany.app;
 /**
  * Hello world!
  */
+/**
+ * Hello world! 222
+ */
 public class App {
 
     private static final String MESSAGE = "Hello World!";
