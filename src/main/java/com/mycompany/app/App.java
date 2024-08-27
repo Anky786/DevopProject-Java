@@ -3,9 +3,7 @@ package com.mycompany.app;
 /**
  * maa lkioHello world...!
  */
-/**
- * Hello world!
- */
+
 public class App {
 
     private static final String MESSAGE = "Hello World!";
